@@ -13,7 +13,7 @@ Please note that statistics collection, especially in early days of pandemic was
 Feel free to modify examples to use your own data instead.
 
 ## Examples
-Example dashboard is posted [here](https://covid.amcharts.com).
+Example dashboard is posted [here](https://covid.amcharts.com). AM charts are very good visulaization tools.
 
 ## Usage
 Both chart templates and data provided AS IS. Take it, fork it, modify it, use it on your own.
