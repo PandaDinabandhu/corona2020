@@ -1,4 +1,4 @@
-# covid-charts
+ covid-charts
 A collection of JavaScript-based data visualization tools and data for depicting spread of the COVID-19.
 
 If you are a news agency, online publisher, or simple blogger, you can use these tools and chart templates to quickly drop in data visualization to your website.
